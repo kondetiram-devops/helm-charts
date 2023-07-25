@@ -8,7 +8,7 @@ description: "Sample Helm charts for Azure."
 urlFragment: azure-helm-charts-sample
 ---
 
-# Azure Samples - Helm Charts
+ Azure Samples - Helm Charts
 
 ## Configuration
 
